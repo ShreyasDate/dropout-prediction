@@ -1,0 +1,21 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "jsx": "react-jsx",
+    "skipLibCheck": true,
+    "noUnusedLocals": true,         /* keep on so you still get helpful warnings; you can flip to false if needed */
+    "verbatimModuleSyntax": false   /* fix errors where type-only imports are forced */
+  }
+}
