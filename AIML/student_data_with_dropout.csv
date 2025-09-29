@@ -1,0 +1,101 @@
+Student_ID,Attendance_Percent,Fees_Status,Annual_Marks,Dropout_Likelihood
+S001,53.09,Up-to-date,217,Dropout Likely
+S002,66.02,Pending,290,Dropout Likely
+S003,90.0,Pending,386,Likely to Enroll
+S004,93.92,Pending,510,Likely to Enroll
+S005,60.0,Up-to-date,460,At Risk
+S006,74.43,Up-to-date,228,At Risk
+S007,71.2,Pending,438,At Risk
+S008,71.23,Pending,381,At Risk
+S009,88.5,Pending,202,Dropout Likely
+S010,82.31,Up-to-date,421,Likely to Enroll
+S011,66.4,Up-to-date,470,At Risk
+S012,85.03,Up-to-date,455,Likely to Enroll
+S013,78.23,Pending,345,At Risk
+S014,50.17,Up-to-date,378,Dropout Likely
+S015,77.41,Up-to-date,231,At Risk
+S016,99.26,Pending,555,Likely to Enroll
+S017,60.83,Pending,361,At Risk
+S018,53.21,Up-to-date,553,Dropout Likely
+S019,81.69,Pending,453,Likely to Enroll
+S020,70.7,Pending,354,At Risk
+S021,96.86,Pending,472,Likely to Enroll
+S022,72.82,Up-to-date,528,At Risk
+S023,67.19,Pending,359,At Risk
+S024,95.27,Pending,418,Likely to Enroll
+S025,95.9,Pending,489,Likely to Enroll
+S026,72.29,Pending,409,At Risk
+S027,84.83,Pending,575,Likely to Enroll
+S028,92.61,Up-to-date,418,Likely to Enroll
+S029,76.59,Pending,549,Likely to Enroll
+S030,99.05,Pending,456,Likely to Enroll
+S031,96.72,Up-to-date,337,At Risk
+S032,90.25,Pending,216,Dropout Likely
+S033,69.8,Up-to-date,250,At Risk
+S034,53.29,Up-to-date,462,Dropout Likely
+S035,68.27,Pending,383,At Risk
+S036,94.34,Up-to-date,427,Likely to Enroll
+S037,59.39,Pending,552,Dropout Likely
+S038,63.81,Pending,588,At Risk
+S039,62.95,Up-to-date,314,At Risk
+S040,71.25,Up-to-date,553,At Risk
+S041,68.71,Pending,365,At Risk
+S042,87.69,Up-to-date,437,Likely to Enroll
+S043,93.51,Pending,313,At Risk
+S044,76.5,Up-to-date,577,Likely to Enroll
+S045,76.41,Pending,452,Likely to Enroll
+S046,65.76,Pending,528,At Risk
+S047,91.42,Up-to-date,448,Likely to Enroll
+S048,71.52,Pending,551,At Risk
+S049,86.78,Up-to-date,426,Likely to Enroll
+S050,87.37,Pending,260,Dropout Likely
+S051,68.17,Pending,551,At Risk
+S052,97.51,Up-to-date,368,Likely to Enroll
+S053,76.37,Pending,421,Likely to Enroll
+S054,93.87,Pending,377,Likely to Enroll
+S055,54.34,Pending,573,Dropout Likely
+S056,96.45,Pending,327,At Risk
+S057,60.71,Up-to-date,206,At Risk
+S058,93.29,Pending,468,Likely to Enroll
+S059,54.53,Pending,406,Dropout Likely
+S060,96.81,Pending,421,Likely to Enroll
+S061,62.2,Pending,210,Dropout Likely
+S062,69.04,Up-to-date,202,At Risk
+S063,69.43,Pending,243,Dropout Likely
+S064,50.03,Up-to-date,366,Dropout Likely
+S065,61.11,Up-to-date,575,At Risk
+S066,89.07,Up-to-date,563,Likely to Enroll
+S067,83.26,Pending,516,Likely to Enroll
+S068,59.74,Up-to-date,412,Dropout Likely
+S069,75.29,Up-to-date,223,At Risk
+S070,86.7,Up-to-date,561,Likely to Enroll
+S071,61.81,Up-to-date,269,At Risk
+S072,82.98,Up-to-date,351,Likely to Enroll
+S073,63.2,Up-to-date,470,At Risk
+S074,80.04,Up-to-date,425,Likely to Enroll
+S075,77.21,Pending,458,Likely to Enroll
+S076,76.78,Up-to-date,454,Likely to Enroll
+S077,80.99,Up-to-date,555,Likely to Enroll
+S078,82.9,Up-to-date,258,At Risk
+S079,63.28,Up-to-date,314,At Risk
+S080,90.24,Up-to-date,410,Likely to Enroll
+S081,89.77,Up-to-date,527,Likely to Enroll
+S082,50.91,Pending,471,Dropout Likely
+S083,81.67,Up-to-date,221,At Risk
+S084,60.92,Up-to-date,495,At Risk
+S085,70.99,Up-to-date,348,At Risk
+S086,69.1,Pending,239,Dropout Likely
+S087,51.28,Up-to-date,228,Dropout Likely
+S088,78.01,Up-to-date,254,At Risk
+S089,80.28,Pending,350,Likely to Enroll
+S090,88.86,Pending,452,Likely to Enroll
+S091,62.67,Up-to-date,331,At Risk
+S092,98.42,Up-to-date,245,At Risk
+S093,89.2,Pending,229,Dropout Likely
+S094,53.76,Up-to-date,237,Dropout Likely
+S095,98.22,Up-to-date,271,At Risk
+S096,73.33,Up-to-date,467,At Risk
+S097,65.01,Up-to-date,316,At Risk
+S098,86.54,Up-to-date,272,At Risk
+S099,57.45,Up-to-date,214,Dropout Likely
+S100,53.65,Pending,586,Dropout Likely
